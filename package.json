@@ -61,5 +61,20 @@
     "postcss": "^8.4.19",
     "prisma": "^4.8.1",
     "tailwindcss": "^3.2.4"
-  }
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "next.config.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dszvivian/converse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dszvivian/converse/issues"
+  },
+  "homepage": "https://github.com/dszvivian/converse#readme"
 }
